@@ -1,0 +1,1 @@
+-> DOM APIs: document.getElementByClassName(), document.getElementByTagName()
